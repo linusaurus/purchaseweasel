@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseEntities", "Purchas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadgerCMD", "BadgerCMD\BadgerCMD.csproj", "{C5428184-E4FE-4230-9A10-4C6BC88D71FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseWeaselUI", "PurchaseWeaselUI\PurchaseWeaselUI.csproj", "{5E06351A-A311-4E2D-981D-DF66BB4EBBA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C5428184-E4FE-4230-9A10-4C6BC88D71FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5428184-E4FE-4230-9A10-4C6BC88D71FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5428184-E4FE-4230-9A10-4C6BC88D71FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E06351A-A311-4E2D-981D-DF66BB4EBBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E06351A-A311-4E2D-981D-DF66BB4EBBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E06351A-A311-4E2D-981D-DF66BB4EBBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E06351A-A311-4E2D-981D-DF66BB4EBBA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
