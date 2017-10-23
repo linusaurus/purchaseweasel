@@ -1,4 +1,4 @@
-# purchaseweasel
-enterpirse purchasing and Manufacturing Tracking logic
+# Purchase-Weasel
+Enterprise purchasing, Parts Library, Manufacturing, and Tracking Application
 
-Classic winforms line of business program with EntityFramework data repository
+
