@@ -6,11 +6,14 @@ Starting with the modest goal of replacing Excel based Purchase Order Sytems, Pu
 
 Developement Plan:
 
-Fold all the related functionality into a single Database. Add the follwoign entities to the Doman Model
+Fold all the related functionality into a single Database. Add the following entities to the Doman Model
 
-*Project Scope 
-  Articles
-  RFIs-Responces
-  ChangeOrders
+*Project Scope
+WorkOrders
+Routing(Travelers)
+Articles
+RFIs-Responces
+ChangeOrders
+  
   
 
